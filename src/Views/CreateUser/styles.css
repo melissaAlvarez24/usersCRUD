@@ -1,0 +1,12 @@
+.boxContainer{
+    margin: 10px 0px;
+}
+
+.boxButtons{
+    display: flex;
+    flex-direction: row;
+}
+
+.boxButtons button {
+    margin: 0px 5px 0px 0px;
+}
